@@ -9,10 +9,12 @@ I'm a B.Sc. (Information Technology, Data Science specialization — IBM-certifi
 - **BI & reporting:** Power BI, Tableau, Excel (PivotTables, Power Query, XLOOKUP), IBM Cognos
 - **Workflow:** Jupyter, Git & GitHub, EDA, dashboard development, KPI reporting
 
-## 📌 My projects
+## 📌 My project
 
-**1. [Olist E-Commerce Analysis — What Makes Customers Happy or Angry?](https://github.com/Viveksaini108/olist-ecommerce-analysis) (Real Data)**
+**[Olist E-Commerce Analysis — What Makes Customers Happy or Angry?](https://github.com/Viveksaini108/olist-ecommerce-analysis) (Real Data)**
 Real data: 99,441 orders from Olist, a Brazilian online marketplace. I downloaded 8 tables with Python, joined them with SQL, and cleaned real problems like duplicate reviews and missing delivery dates. Biggest finding: late delivery decides the review — on-time orders average 4.29 stars, orders delayed 8+ days average just 1.73 stars. Only 3.1% of customers ever buy a second time.
+
+_(More projects will be added here soon.)_
 
 ## 🌱 Currently
 - Open to Data Analyst / Business Analyst / MIS Executive roles across India
